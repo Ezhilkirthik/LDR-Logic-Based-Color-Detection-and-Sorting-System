@@ -1,0 +1,5 @@
+{
+  "name": "LDR Logic Rotary Sorter Twin",
+  "description": "A high-fidelity digital twin of an industrial color sorting machine using simulated analog voltage logic, 3D physics, and reactive control systems.",
+  "requestFramePermissions": []
+}
